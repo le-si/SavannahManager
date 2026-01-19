@@ -2,16 +2,16 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net8.0-windows7.0</TargetFramework>
+    <TargetFramework>net10.0-windows7.0</TargetFramework>
     <UseWPF>true</UseWPF>
     <LangVersion>latest</LangVersion>
     <Authors>Aona Suzutsuki</Authors>
     <Company>Kimama Lab.</Company>
-    <Copyright>Copyright (C) Aona Suzutsuki 2014 - 2021</Copyright>
+    <Copyright>Copyright (C) Aona Suzutsuki 2014 - 2026</Copyright>
     <AssemblyName>7dtd-XmlEditor</AssemblyName>
     <RootNamespace>_7dtd_XmlEditor</RootNamespace>
     <PackageId>7dtd_XmlEditor</PackageId>
-    <Version>1.1.4.2</Version>
+    <Version>1.1.5.3</Version>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
