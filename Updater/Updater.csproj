@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net8.0-windows7.0</TargetFramework>
+    <TargetFramework>net10.0-windows7.0</TargetFramework>
     <UseWPF>true</UseWPF>
     <LangVersion>latest</LangVersion>
     <Authors>Aona Suzutsuki</Authors>
@@ -22,7 +22,6 @@
     <PackageReference Include="CommonCoreLib" Version="1.0.6" />
     <PackageReference Include="CommonStyleLib" Version="1.0.26" />
     <PackageReference Include="SavannahXmlLib" Version="1.0.5" />
-    <PackageReference Include="System.IO.Compression" Version="4.3.0" />
     <PackageReference Include="UpdateLib" Version="1.0.1" />
   </ItemGroup>
 
