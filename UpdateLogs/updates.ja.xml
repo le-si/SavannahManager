@@ -1,5 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <updates>
+  <update version="2.6.66.14">
+    1. 内部パッケージを更新しました。
+    2. フレームワークを.Net 8から.Net 10に変更しました。
+
+    <br />
+
+    <font color="#ff0000">
+      ○お知らせ
+      .Net 10にフレームワークを変更しました。
+      インストールされていない方は公式よりDesktop Runtimeのインストールをお願いします。（インストール前に更新すると起動しなくなります）
+    </font>
+    <a href="https://dotnet.microsoft.com/ja-jp/download/dotnet/10.0">
+      <font color="#00ffff">https://dotnet.microsoft.com/ja-jp/download/dotnet/10.0</font>
+    </a>
+  </update>
   <update version="2.6.65.13">
     1. 内部パッケージを更新しました。
   </update>
