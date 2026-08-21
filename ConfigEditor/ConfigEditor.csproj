@@ -170,7 +170,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="CommonStyleLib" Version="1.0.26" />
+    <PackageReference Include="CommonStyleLib" Version="1.0.27" />
   </ItemGroup>
 
   <ItemGroup>
