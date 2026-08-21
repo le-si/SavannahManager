@@ -1,5 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <updates>
+  <update version="2.6.66.14">
+    1. Updated internal packages.
+    1. Changed framework from .Net 8 to .Net 10.
+
+    <br />
+
+    <font color="#ff0000">
+      ○ Notice
+      The target framework changed to .Net 10.
+      Please install Desktop Runtime if you don't install.
+      You cannot launch this app if you don't install runtime.
+    </font>
+    <a href="https://dotnet.microsoft.com/ja-jp/download/dotnet/10.0">
+      <font color="#00ffff">https://dotnet.microsoft.com/ja-jp/download/dotnet/10.0</font>
+    </a>
+  </update>
   <update version="2.6.65.13">
     1. Updated internal packages.
   </update>
@@ -17,7 +33,7 @@
 
     <font color="#ff0000">
       ○ Notice
-      The target framework changed to .Net 6.
+      The target framework changed to .Net 10.
       Please install Desktop Runtime if you don't install.
       You cannot launch this app if you don't install runtime.
     </font>
